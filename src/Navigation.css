@@ -1,0 +1,6 @@
+@media (min-width: 992px) {
+  .custom-padding {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}

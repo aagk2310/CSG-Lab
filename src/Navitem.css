@@ -1,0 +1,14 @@
+.nav-style {
+  color: white;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.active {
+  color: white !important;
+  border-top: 3px solid #ff6969;
+  padding-top: 5px;
+  text-decoration: none;
+}
