@@ -7,12 +7,12 @@ import { useState } from "react";
 import "./Hero.js";
 
 const navItems = [
-  { key: 0, value: "Home" },
-  { key: 1, value: "Faculty" },
-  { key: 2, value: "Students" },
-  { key: 3, value: "Projects" },
-  { key: 4, value: "Events" },
-  { key: 5, value: "Publications" },
+  { key: 0, value: "Home", route: "/" },
+  { key: 1, value: "Faculty", route: "/faculty" },
+  { key: 2, value: "Students", route: "/faculty"  },
+  { key: 3, value: "Projects", route: "/projects"  },
+  { key: 4, value: "Events", route: "/faculty"  },
+  { key: 5, value: "Publications", route: "/publications"  },
 ];
 function Navbar() {
   const [state, setState] = useState(0);
@@ -33,6 +33,7 @@ function Navbar() {
               content={item.value}
               isactive={index == state ? true : false}
               setState={setState}
+              route={item.route}
             />
           );
         })}

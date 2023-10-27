@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Compiling PolyMage Domain-Specific Language for Emerging Parallel Architectures",
+    "authors": "Uday Kumar Reddy Bondhugula (IISc, Banglore), Suresh Purini (IIIT, Hyderabad)",
+    "fundingAgency": "Department of Science and Technology",
+    "fundingAmount": "Rs. 80 lacs",
+    "duration": {
+      "startYear": 2017,
+      "endYear": 2020
+    }
+  },
+  {
+    "title": "Large Scale Distributed Model Checking",
+    "authors": "Suresh Purini, Venkatesh Choppella",
+    "fundingAgency": "Hitachi Research, Bangalore, India",
+    "fundingAmount": "Rs. 40 lacs",
+    "duration": {
+      "startYear": 2014,
+      "endYear": 2016
+    }
+  },
+  {
+    "title": "State variable approach to the model-driven development of software for reactive systems",
+    "authors": "Venkatesh Choppella",
+    "fundingAgency": "Siemens India, Bangalore, India",
+    "fundingAmount": "Rs. 14 lacs",
+    "duration": {
+      "startYear": 2011,
+      "endYear": 2013
+    }
+  }
+]
