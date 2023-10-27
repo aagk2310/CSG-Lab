@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Cloud Federation Formation in Oligopolistic Markets",
+    "authors": "Yash Khandelwal, Karthik Ganti, Suresh Purini, Puduru V Reddy",
+    "conference": "Euro-Par",
+    "year": 2018
+  },
+  {
+    "title": "Peterson's mutual exclusion algorithm as feedback control",
+    "authors": "Arjun Sanjeev, Venkatesh Choppella, Viswanath Kasturi",
+    "conference": "AFMSS 2018",
+    "year": 2018
+  },
+  {
+    "title": "A conceptual model of systems engineering.",
+    "authors": "Swaminathan Natarajan, Kesav Vithal Nori, Viswanath Kasturi, Anand Kumar, Venkatesh Choppella, Subhrojyoti Roy Chaudhuri",
+    "conference": "28th Annual INCOSE International Symposium",
+    "year": 2018
+  },
+  {
+    "title": "GPUScheduler: User Level Preemptive Scheduling for NVIDIA GPUs",
+    "authors": "S Garg, K Kothapalli, S Purini",
+    "conference": "2017",
+    "year": 2017
+  },
+  {
+    "title": "Unsupervised learning based approach for plagiarism detection in programming assignments",
+    "authors": "Jitendra Yasaswi, Sri Kailash, Anil Chilupuri, Suresh Purini, CV Jawahar",
+    "conference": "Proceedings of the 10th Innovations in Software Engineering Conference",
+    "year": 2017
+  },
+  {
+    "title": "A crowdsourcing approach for quality enhancement of elearning systems.",
+    "authors": "Lalit Mohan S., Priya Raman, Venkatesh Choppella, Y. R. Reddy",
+    "conference": "Innovations in Software Engineering Conference",
+    "year": 2017
+  },
+  {
+    "title": "On Understanding Time, Energy and Cost Performance of Wimpy Heterogeneous Systems for Edge Computing",
+    "authors": "Dumitrel Loghin, Lavanya Ramapantulu, Yong Meng Teo",
+    "conference": "Edge Computing (EDGE), 2017 IEEE International Conference on",
+    "year": 2017
+  },
+  {
+    "title": "Fast algorithms for optimal coalition formation in federated clouds",
+    "authors": "Yash Khandelwal, Suresh Purini, Puduru V Reddy",
+    "conference": "Proceedings of the 9th International Conference on Utility and Cloud Computing",
+    "year": 2016
+  },
+  {
+    "title": "Anuvaad Pranaali: A RESTful API for Machine Translation",
+    "authors": "Nehal J Wani, Sharada Prasanna Mohanty, Suresh Purini, Dipti Misra Sharma",
+    "conference": "International Conference on Service-Oriented Computing",
+    "year": 2016
+  },
+  {
+    "title": "A DSL compiler for accelerating image processing pipelines on FPGAs",
+    "authors": "Nitin Chugh, Vinay Vasista, Suresh Purini, Uday Bondhugula",
+    "conference": "Parallel Architecture and Compilation Techniques (PACT)",
+    "year": 2016
+  },
+  {
+    "title": "Accurus: A fast convergence technique for accuracy configurable approximate adder circuits",
+    "authors": "Vinamra Benara, Suresh Purini",
+    "conference": "VLSI (ISVLSI), 2016 IEEE Computer Society Annual Symposium",
+    "year": 2016
+  },
+  {
+    "title": "Distributed safety verification using vertex centric programming model",
+    "authors": "Adhish Singla, Krishnaji Desai, Suresh Purini, Venkatesh Choppella",
+    "conference": "International Symposium on Parallel and Distributed Computing (ISPDC)",
+    "year": 2016
+  },
+  {
+    "title": "A Hybrid CPU+ GPU Working-Set Dictionary",
+    "authors": "Z Choudhury, S Purini, SR Krishna",
+    "conference": "International Symposium on Parallel and Distributed Computing (ISPDC)",
+    "year": 2016
+  },
+  {
+    "title": "Re-targeting Optimization Sequences from Scalar Processors to FPGAs in HLS compilers",
+    "authors": "R Kogta, S Purini, A Mathew",
+    "conference": "Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+    "year": 2016
+  },
+  {
+    "title": "Heterogeneous (CPU+ GPU) Working-set Hash Tables",
+    "authors": "Ziaul Choudhury, Suresh Purini",
+    "conference": "Proceedings of the 9th International Workshop on Programmability and Architectures for Heterogeneous Multicores, MULTIPROG",
+    "year": 2016
+  },
+  {
+    "title": "Modeling the Energy-Time Performance of MIC Architecture System",
+    "authors": "Lavanya Ramapantulu, Thy Dao, Dumitrel Loghin, Nam Thoai, Yong Meng Teo",
+    "conference": "Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS), 2016 IEEE 24th International Symposium on",
+    "year": 2016
+  },
+  {
+    "title": "On Energy Proportionality and Time-Energy Performance of Heterogeneous Clusters",
+    "authors": "Lavanya Ramapantulu, Dumitrel Loghin, Yong Meng Teo",
+    "conference": "Cluster Computing (CLUSTER), 2016 IEEE International Conference on",
+    "year": 2016
+  },
+  {
+    "title": "ENERGY-TIME PERFORMANCE OF HETEROGENEOUS COMPUTING SYSTEMS: MODELS AND ANALYSIS",
+    "authors": "Lavanya Ramapantulu",
+    "conference": "2016",
+    "year": 2016
+  },
+  {
+    "title": "Accuracy-configurable approximate multiplier with error detection and correction",
+    "authors": "Ashutosh Mehta, Shivani Maurya, Nawaz Sharief, Babu M Pranay, Srivatsava Jandhyala, Suresh Purini",
+    "conference": "TENCON 2015-2015 IEEE Region 10 Conference",
+    "year": 2015
+  },
+  {
+    "title": "Dynamic memory and core scaling in virtual machines",
+    "authors": "Kapil Kumar, Nehal J Wani, Suresh Purini",
+    "conference": "Cloud Computing (CLOUD), 2015 IEEE 8th International Conference on",
+    "year": 2015
+  },
+  {
+    "title": "Unsupervised learning based approach for plagiarism detection in programming assignments",
+    "authors": "Jitendra Yasaswi, Anil Chilupuri, Suresh Purini",
+    "conference": "Innovations in Software Engineering Conference",
+    "year": 2015
+  },
+  {
+    "title": "A scalable and energy-efficient architecture for parallel string matching",
+    "authors": "Vineeth Narasimhan Krishnan, Suresh Purini",
+    "conference": "Data Engineering Workshops (ICDEW), 2015 IEEE 31st International Conference on",
+    "year": 2015
+  }
+]
